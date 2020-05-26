@@ -1,2 +1,5 @@
 # Digital-CLock
-Basic digital clock using python
+Basic GUI digital clock using python 
+
+## How interface looks ?
+In capture file you can see its interface.
